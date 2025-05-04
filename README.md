@@ -2,7 +2,9 @@
 
 🎓 **2nd-year student of Informatics and Econometrics at Uniwersytet Ekonomiczny w Poznaniu**  
 During my studies, I’ve gained a strong foundation in **statistics**, **mathematics**, and **economics**, which helps me better understand data in a real-world business context.  
+
 🌱 **Currently learning:** Python, SQL, Data Analysis  
+
 🚀 **Future goals:**  
 - Dive deeper into machine learning  
 - Learn more about statistics and data science  
