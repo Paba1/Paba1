@@ -16,8 +16,8 @@ During my studies, I’ve gained a strong foundation in **statistics**, **mathem
 - **Tools:** Git & GitHub, Microsoft Excel, Power BI (Basic), Microsoft Access  
 
 ### 📂 **My Projects**  
-🔹 [Simple Data Analysis Project]([link](https://github.com/Paba1/Data-Science-Case-Study)) – Exploratory Data Analysis on a dataset using Pandas and Seaborn  
-*(More coming soon!)*  
+🔹 [Simple Data Analysis Project]((https://github.com/Paba1/Data-Science-Case-Study)) – Exploratory Data Analysis on a dataset using Pandas and Seaborn  
+
 
 ### 📫 **How to Reach Me** 
 📧 Email: pbaczkowski2004@wp.pl
