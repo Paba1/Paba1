@@ -22,8 +22,6 @@ During my studies, I’ve gained a strong foundation in **statistics**, **mathem
 ### 📫 **How to Reach Me** 
 📧 Email: pbaczkowski2004@wp.pl
 
-⭐ *""Be like the rock that the waves keep crashing over. It stands unmoved and the raging of the sea falls still around it."
-— Marcus Aurelius, Meditations*  
 
 <!---
 Paba1/Paba1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
