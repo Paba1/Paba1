@@ -16,7 +16,9 @@ During my studies, I’ve gained a strong foundation in **statistics**, **mathem
 - **Tools:** Git & GitHub, Microsoft Excel, Power BI (Basic), Microsoft Access  
 
 ### 📂 **My Projects**  
+🔹 [SQL + Visualisation Project](https://github.com/Paba1/SQL-Pandas) - combines **SQL** querying with **Python** visualization
 🔹 [Simple Data Analysis Project](https://github.com/Paba1/Data-Science-Case-Study) – Exploratory Data Analysis on a dataset using Pandas and Seaborn  
+
 
 
 ### 📫 **How to Reach Me** 
