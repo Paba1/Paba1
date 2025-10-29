@@ -11,9 +11,9 @@ During my studies, I’ve gained a strong foundation in **statistics**, **mathem
 - Build real-world projects to strengthen my portfolio  
 
 ### 🛠️ **Skills & Tools**  
-- **Languages:** Python, SQL (Basics), Java (Basics), R  
+- **Languages:** Python, SQL, Java (Basics), R  
 - **Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Tools:** Git & GitHub, Microsoft Excel, Power BI (Basic), Microsoft Access  
+- **Tools:** Git & GitHub, Microsoft Excel, Power BI, Microsoft Access  
 
 ### 📂 **My Projects**  
 🔹 [SQL - Pandas](https://github.com/Paba1/SQL-Pandas) - combines **SQL** querying with **Python** visualization
