@@ -16,9 +16,11 @@ During my studies, I’ve gained a strong foundation in **statistics**, **mathem
 - **Tools:** Git & GitHub, Microsoft Excel, Power BI, Microsoft Access  
 
 ### 📂 **My Projects**  
+🔹  [Financial Market Analysis Model (Work in Progress)](https://github.com/Paba1/NVDA_stock_Analysis_ML_Sentiment) - Work in Progress....
+
 🔹 [SQL - Pandas](https://github.com/Paba1/SQL-Pandas) - combines **SQL** querying with **Python** visualization
 
-🔹 [Simple Data Analysis Project](https://github.com/Paba1/Data-Science-Case-Study) – Exploratory Data Analysis on a dataset using Pandas and Seaborn  
+🔹 [BPMN - XTB account registration case study](https://github.com/Paba1/BPMN_XTB_Account-_Creation) - proces zakładania i prowadzenia konta maklerskiego PL
 
 
 
