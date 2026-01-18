@@ -18,6 +18,8 @@ During my studies, I’ve gained a strong foundation in **statistics**, **mathem
 ### 📂 **My Projects**  
 🔹  [Financial Market Analysis Model (Work in Progress)](https://github.com/Paba1/NVDA_stock_Analysis_ML_Sentiment) - Work in Progress....
 
+🔹 [SOAP - XML to JSON converter](https://github.com/Paba1/SOAP_xml_to_json) - Simple XML to JSON converter with PyTests, Server and Client
+
 🔹 [SQL - Pandas](https://github.com/Paba1/SQL-Pandas) - combines **SQL** querying with **Python** visualization
 
 🔹 [BPMN - XTB account registration case study](https://github.com/Paba1/BPMN_XTB_Account-_Creation) - proces zakładania i prowadzenia konta maklerskiego PL
