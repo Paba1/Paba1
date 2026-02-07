@@ -1,19 +1,22 @@
-👋 Hello, I'm Paweł
+# 👋 Hello, I'm Paweł
 
-🎓 **3nd-year student of Informatics and Econometrics at Uniwersytet Ekonomiczny w Poznaniu**  
-During my studies, I’ve gained a strong foundation in **statistics**, **mathematics**, and **economics**, which helps me better understand data in a real-world business context.  
+🎓 **3rd-year Informatics and Econometrics student at Poznań University of Economics and Business** 📊 **Power BI Developer** | Creating data-driven solutions for the **Logistics** sector.
 
-🌱 **Currently learning:** Python, SQL, Data Analysis  
+During my studies and professional work, I’ve combined **statistics** and **economics** with data engineering to solve real business problems. I focus on making data understandable and actionable.
 
-🚀 **Future goals:**  
-- Dive deeper into machine learning  
-- Learn more about statistics and data science  
-- Build real-world projects to strengthen my portfolio  
+🌱 **Currently learning:** Machine Learning (XGBoost/RF), SQL Optimization, Python for Data Science
 
-### 🛠️ **Skills & Tools**  
-- **Languages:** Python, SQL, Java (Basics), R  
-- **Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Tools:** Git & GitHub, Microsoft Excel, Power BI, Microsoft Access  
+### 💼 **Professional Experience**
+**Power BI Developer (Logistics)**
+- Developing automated reports and interactive dashboards for supply chain performance.
+- Cleaning and transforming complex logistics data using Power Query and DAX.
+- Translating business requirements into technical data models.
+
+### 🛠️ **Skills & Tools**
+- **Data Visualization:** Power BI (DAX, Power Query), Matplotlib, Seaborn
+- **Databases:** Oracle SQL (PL/SQL), SQL (MySQL/General), Microsoft Access
+- **Programming:** Python (Pandas, NumPy, Scikit-learn), R, Java (Basics)
+- **Methodologies:** BPMN 2.0, Statistical Analysis, Financial Econometrics
 
 ### 📂 **My Projects** 
 🔹 **[University Database System (Oracle SQL)](https://github.com/Paba1/University_Oracle_Database)** Designed and implemented a comprehensive relational database in **Oracle SQL**.  
@@ -30,8 +33,8 @@ During my studies, I’ve gained a strong foundation in **statistics**, **mathem
 🔹 **[BPMN - XTB Account Registration](https://github.com/Paba1/BPMN_XTB_Account-_Creation)** Case study of a brokerage account creation process, visualized using BPMN 2.0 standard.
 
 
-
-### 📫 **How to Reach Me** 
+### 📫 **Connect with me**
+🤝 **[LinkedIn Profile](https://www.linkedin.com/in/pawel-baczkowski/)**
 📧 Email: pbaczkowski2004@wp.pl
 
 
