@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Paweł
 
-🎓 **3rd-year Informatics and Econometrics student at Poznań University of Economics and Business** 📊 **Power BI Developer** | Creating data-driven solutions for the **Logistics** sector.
+🎓 **3rd-year Informatics and Econometrics student at Poznań University of Economics and Business** 
+📊 **Power BI Developer** | Creating data-driven solutions for the **Logistics** sector.
 
 During my studies and professional work, I’ve combined **statistics** and **economics** with data engineering to solve real business problems. I focus on making data understandable and actionable.
 
