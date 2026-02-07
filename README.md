@@ -35,6 +35,7 @@ During my studies and professional work, I’ve combined **statistics** and **ec
 
 ### 📫 **Connect with me**
 🤝 **[LinkedIn Profile](https://www.linkedin.com/in/pawel-baczkowski/)**
+
 📧 Email: pbaczkowski2004@wp.pl
 
 
