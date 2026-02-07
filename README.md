@@ -16,7 +16,7 @@ During my studies, I’ve gained a strong foundation in **statistics**, **mathem
 - **Tools:** Git & GitHub, Microsoft Excel, Power BI, Microsoft Access  
 
 ### 📂 **My Projects**  
-🔹  [Financial Market Analysis Model (Work in Progress)](https://github.com/Paba1/NVDA_stock_Analysis_ML_Sentiment) - Work in Progress....
+🔹  [Financial Market Analysis Model (Work in Progress)](https://github.com/Paba1/NVDA_stock_Analysis_ML_Sentiment) - Predicting Stock using Machine Learninmg (RandomForest, XGBoost) using Technical Analysis and Sentioment (finBERT)
 
 🔹 [SOAP - XML to JSON converter](https://github.com/Paba1/SOAP_xml_to_json) - Simple XML to JSON converter with PyTests, Server and Client
 
