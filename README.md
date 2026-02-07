@@ -6,7 +6,7 @@
 
 During my studies and professional work, I’ve combined **statistics** and **economics** with data engineering to solve real business problems. I focus on making data understandable and actionable.
 
-🌱 **Currently learning:** Machine Learning (XGBoost/RF), SQL Optimization, Python for Data Science
+🌱 **Currently learning:** Machine Learning (XGBoost/RF),SQL ,Python for Data Science
 
 ### 💼 **Professional Experience**
 **Power BI Developer (Logistics)**
