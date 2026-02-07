@@ -15,14 +15,19 @@ During my studies, I’ve gained a strong foundation in **statistics**, **mathem
 - **Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Tools:** Git & GitHub, Microsoft Excel, Power BI, Microsoft Access  
 
-### 📂 **My Projects**  
-🔹  [Financial Market Analysis Model (Work in Progress)](https://github.com/Paba1/NVDA_stock_Analysis_ML_Sentiment) - Predicting Stock using Machine Learninmg (RandomForest, XGBoost) using Technical Analysis and Sentioment (finBERT)
+### 📂 **My Projects** 
+🔹 **[University Database System (Oracle SQL)](https://github.com/Paba1/University_Oracle_Database)** Designed and implemented a comprehensive relational database in **Oracle SQL**.  
+- **Advanced SQL:** Includes complex queries, correlated and non-correlated subqueries, and analytical views.  
+- **Documentation:** Full ERD diagrams (Logical & Relational) and business case studies included in the documentation.  
+- **Process:** Managed the full lifecycle from data modeling in **Data Modeler** to DDL/DML implementation.
 
-🔹 [SOAP - XML to JSON converter](https://github.com/Paba1/SOAP_xml_to_json) - Simple XML to JSON converter with PyTests, Server and Client
+🔹 **[Financial Market Analysis Model](https://github.com/Paba1/NVDA_stock_Analysis_ML_Sentiment)** Predicting NVIDIA stock movements using **XGBoost** and **Random Forest**.  
+- Features advanced validation (Triple Barrier Method) and sentiment analysis (FinBERT).  
+- Integrates technical indicators and financial econometrics.
 
-🔹 [SQL - Pandas](https://github.com/Paba1/SQL-Pandas) - combines **SQL** querying with **Python** visualization
+🔹 **[SOAP - XML to JSON converter](https://github.com/Paba1/SOAP_xml_to_json)** A tool for data format transformation with implemented PyTests and server-client architecture.
 
-🔹 [BPMN - XTB account registration case study](https://github.com/Paba1/BPMN_XTB_Account-_Creation) - proces zakładania i prowadzenia konta maklerskiego PL
+🔹 **[BPMN - XTB Account Registration](https://github.com/Paba1/BPMN_XTB_Account-_Creation)** Case study of a brokerage account creation process, visualized using BPMN 2.0 standard.
 
 
 
