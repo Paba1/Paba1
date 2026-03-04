@@ -21,14 +21,20 @@ During my studies and professional work, I’ve combined **statistics** and **ec
 - **Methodologies:** BPMN 2.0, Statistical Analysis, Financial Econometrics
 
 ### 📂 **My Projects** 
-🔹 **[University Database System (Oracle SQL)](https://github.com/Paba1/University_Oracle_Database)** Designed and implemented a comprehensive relational database in **Oracle SQL**.  
+🔹 **[Financial Market Analysis Model](https://github.com/Paba1/NVDA_stock_Analysis_ML_Sentiment)** Predicting NVIDIA stock movements using **XGBoost** and **Random Forest**.  
+- Features advanced validation (Triple Barrier Method) and sentiment analysis (FinBERT) - adding sentiment is still in progress...  
+- Integrates technical indicators and financial econometrics.
+
+- 🔹 **[University Database System (Oracle SQL)](https://github.com/Paba1/University_Oracle_Database)** Designed and implemented a comprehensive relational database in **Oracle SQL**.  
 - **Advanced SQL:** Includes complex queries, correlated and non-correlated subqueries, and analytical views.  
 - **Documentation:** Full ERD diagrams (Logical & Relational) and business case studies included in the documentation.  
 - **Process:** Managed the full lifecycle from data modeling in **Data Modeler** to DDL/DML implementation.
 
-🔹 **[Financial Market Analysis Model](https://github.com/Paba1/NVDA_stock_Analysis_ML_Sentiment)** Predicting NVIDIA stock movements using **XGBoost** and **Random Forest**.  
-- Features advanced validation (Triple Barrier Method) and sentiment analysis (FinBERT).  
-- Integrates technical indicators and financial econometrics.
+- 🔹 **[Fintech Card Portfolio & Fraud Analysis (GCP & BigQuery)](https://github.com/Paba1/BigQuery)** End-to-end data pipeline and fraud detection analysis on a payments dataset using **Google Cloud Platform**.  
+- **BigQuery ML:** Implemented K-means clustering for automatic customer segmentation (Davies-Bouldin: 1.29).  
+- **Advanced SQL:** Z-score anomaly detection, cumulative expiry analysis, and card portfolio ranking with window functions.  
+- **ETL:** Automated data ingestion from Kaggle to BigQuery via Python pipeline in Google Colab.
+
 
 🔹 **[SOAP - XML to JSON converter](https://github.com/Paba1/SOAP_xml_to_json)** A tool for data format transformation with implemented PyTests and server-client architecture.
 
